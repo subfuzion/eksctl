@@ -147,8 +147,8 @@
     "pkg/server",
     "pkg/token"
   ]
-  revision = "8c9b1bda7458aea47cd1917534f2222f80627c58"
-  version = "v0.3.0"
+  revision = "2820d01aee935bbbb96c93b1d2f83d1c7d9ed87c"
+  source = "github.com/errordeveloper/authenticator"
 
 [[projects]]
   branch = "master"
@@ -544,6 +544,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "9e6c54d783f10a30d4deb94f571e33e30cb2ebc55579db7932843651893d1483"
+  inputs-digest = "a932428784efe813e59704764b7277abbd3983fd918075927c972d5858ec9000"
   solver-name = "gps-cdcl"
   solver-version = 1
